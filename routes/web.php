@@ -21,3 +21,7 @@ Route::get('/test',function()
 {
     return 'here';
 });
+Route::get('/sdfsdaf',function()
+{
+    return 'here';
+});
