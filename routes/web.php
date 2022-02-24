@@ -29,3 +29,10 @@ Route::get('/sdfsddfggdfgaf',function()
 {
     return 'here';
 });
+
+Route::get('/gaf',function()
+{
+    return 'here';
+});
+
+
