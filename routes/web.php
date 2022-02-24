@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('try/', function () {
     return view('welcome');
 });
 
@@ -22,6 +22,10 @@ Route::get('/test',function()
     return 'here';
 });
 Route::get('/sdfsdaf',function()
+{
+    return 'here';
+});
+Route::get('/sdfsddfggdfgaf',function()
 {
     return 'here';
 });
